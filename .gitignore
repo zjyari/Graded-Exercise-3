@@ -1,0 +1,8 @@
+# Model weights are fetched from ModelScope at runtime (see README.md).
+models/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
